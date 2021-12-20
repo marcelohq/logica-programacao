@@ -1,0 +1,15 @@
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.csproj.AssemblyReference.cache
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.AssemblyInfoInputs.cache
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.AssemblyInfo.cs
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.csproj.CoreCompileInputs.cache
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\CsharpBasico.exe
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\CsharpBasico.deps.json
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\CsharpBasico.runtimeconfig.json
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\CsharpBasico.dll
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\ref\CsharpBasico.dll
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\bin\Debug\net6.0\CsharpBasico.pdb
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.dll
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\ref\CsharpBasico.dll
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.pdb
+C:\workspace\Algoritmos\logica-programacao\CsharpBasico\CsharpBasico\obj\Debug\net6.0\CsharpBasico.genruntimeconfig.cache
