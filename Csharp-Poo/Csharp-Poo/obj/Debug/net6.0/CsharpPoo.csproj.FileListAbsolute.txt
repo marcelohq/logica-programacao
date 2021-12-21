@@ -1,0 +1,15 @@
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.csproj.AssemblyReference.cache
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.AssemblyInfoInputs.cache
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.AssemblyInfo.cs
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.csproj.CoreCompileInputs.cache
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\CsharpPoo.exe
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\CsharpPoo.deps.json
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\CsharpPoo.runtimeconfig.json
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\CsharpPoo.dll
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\ref\CsharpPoo.dll
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\bin\Debug\net6.0\CsharpPoo.pdb
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.dll
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\ref\CsharpPoo.dll
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.pdb
+C:\workspace\Algoritmos\logica-programacao\Csharp-Poo\Csharp-Poo\obj\Debug\net6.0\CsharpPoo.genruntimeconfig.cache
