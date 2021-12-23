@@ -8,11 +8,19 @@ namespace CsharpPoo
 {
     internal class Pessoa
     {
-        public string Nome { get; set; }
-        public char Genero { get; set; }
-        public byte Idade { get; set; }
-        public string CPF  { get; set; }
+        public string Nome;
+        public char Genero;
+        public byte Idade;
+        public string CPF;
 
+        public Pessoa()
+        {
+            this.Nome = string.Empty;
+            this.Genero = char.MinValue;
+            this.Idade = byte.MinValue;
+            this.CPF = string.Empty;
+
+        }
         public Pessoa(string Nome, char Genero, byte Idade, string CPF)
         {
                 this.Nome = Nome;
@@ -20,7 +28,7 @@ namespace CsharpPoo
                 this.Idade = Idade;
                 this.CPF = CPF;
         }
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}, sou do genero {Genero} e tenho {Idade} anos. " +
                 $"Meu CPF é: {CPF}");

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cb7a4bd-efbd-4f0b-bc52-79f03b8e6196": {
+      "ProjectGuid": "6cb7a4bd-efbd-4f0b-bc52-79f03b8e6196",
+      "DisplayName": "CsharpPoo",
+      "ColorIndex": 0
+    },
+    "6c8c2673-7535-4018-b28a-774ebfb1dd61": {
+      "ProjectGuid": "6c8c2673-7535-4018-b28a-774ebfb1dd61",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "c551eb11-e3ed-4905-84f7-af8420d42a9e": {
+      "ProjectGuid": "c551eb11-e3ed-4905-84f7-af8420d42a9e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

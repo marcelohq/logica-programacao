@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CsharpPoo
 {
-    internal class Retangulo
+     class Retangulo
     {
         private double Comprimento;
         private double Altura;
