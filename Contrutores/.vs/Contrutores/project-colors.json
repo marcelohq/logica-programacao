@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38d160fa-a9a8-443e-a983-d6b9a134a359": {
+      "ProjectGuid": "38d160fa-a9a8-443e-a983-d6b9a134a359",
+      "DisplayName": "Contrutores",
+      "ColorIndex": 0
+    },
+    "9b055a33-d6c2-42a1-81c4-96cc84ce0b06": {
+      "ProjectGuid": "9b055a33-d6c2-42a1-81c4-96cc84ce0b06",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "92901c3c-a422-4b89-86a5-916e8157cdab": {
+      "ProjectGuid": "92901c3c-a422-4b89-86a5-916e8157cdab",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

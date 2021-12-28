@@ -1,0 +1,15 @@
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.csproj.AssemblyReference.cache
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.AssemblyInfoInputs.cache
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.AssemblyInfo.cs
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.csproj.CoreCompileInputs.cache
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\Contrutores.exe
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\Contrutores.deps.json
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\Contrutores.runtimeconfig.json
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\Contrutores.dll
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\ref\Contrutores.dll
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\bin\Debug\net6.0\Contrutores.pdb
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.dll
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\ref\Contrutores.dll
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.pdb
+C:\workspace\Algoritmos\logica-programacao\Contrutores\Contrutores\obj\Debug\net6.0\Contrutores.genruntimeconfig.cache
